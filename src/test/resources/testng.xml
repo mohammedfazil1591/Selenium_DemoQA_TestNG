@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="DemoQA Practice Form Suite" verbose="1" parallel="false">
+    <test name="Practice Form Tests">
+        <classes>
+            <class name="tests.PracticeFormTest"/>
+        </classes>
+    </test>
+</suite>
